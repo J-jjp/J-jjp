@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jjp/dog/unitree_contor/build",
+  "command": "/usr/local/gcc-11.4/bin/g++  -I/home/jjp/dog/unitree_contor/include -std=gnu++17 -o CMakeFiles/example_a1_motor.dir/example/example_a1_motor.cpp.o -c /home/jjp/dog/unitree_contor/example/example_a1_motor.cpp",
+  "file": "/home/jjp/dog/unitree_contor/example/example_a1_motor.cpp"
+},
+{
+  "directory": "/home/jjp/dog/unitree_contor/build",
+  "command": "/usr/local/gcc-11.4/bin/g++  -I/home/jjp/dog/unitree_contor/include -std=gnu++17 -o CMakeFiles/example_a1_motor.dir/include/contorl/src/leg_control.cpp.o -c /home/jjp/dog/unitree_contor/include/contorl/src/leg_control.cpp",
+  "file": "/home/jjp/dog/unitree_contor/include/contorl/src/leg_control.cpp"
+},
+{
+  "directory": "/home/jjp/dog/unitree_contor/build",
+  "command": "/usr/local/gcc-11.4/bin/g++ -Dunitree_actuator_sdk_EXPORTS -I/home/jjp/dog/unitree_contor/include -isystem /home/jjp/dog/unitree_contor/thirdparty/pybind11/include -isystem /home/jjp/miniconda3/include/python3.8 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -std=gnu++17 -o CMakeFiles/unitree_actuator_sdk.dir/thirdparty/python_wrapper/wrapper.cpp.o -c /home/jjp/dog/unitree_contor/thirdparty/python_wrapper/wrapper.cpp",
+  "file": "/home/jjp/dog/unitree_contor/thirdparty/python_wrapper/wrapper.cpp"
+}
+]

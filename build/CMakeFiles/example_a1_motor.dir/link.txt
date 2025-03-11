@@ -1,0 +1,1 @@
+/usr/local/gcc-11.4/bin/g++ -rdynamic CMakeFiles/example_a1_motor.dir/example/example_a1_motor.cpp.o CMakeFiles/example_a1_motor.dir/include/contorl/src/leg_control.cpp.o -o example_a1_motor   -L/home/jjp/dog/unitree_contor/lib  -Wl,-rpath,/home/jjp/dog/unitree_contor/lib -lUnitreeMotorSDK_Linux64 -lyaml-cpp 

@@ -1,0 +1,1 @@
+/usr/local/gcc-11.4/bin/g++ -fPIC -flto -shared  -o ../lib/unitree_actuator_sdk.cpython-38-x86_64-linux-gnu.so CMakeFiles/unitree_actuator_sdk.dir/thirdparty/python_wrapper/wrapper.cpp.o   -L/home/jjp/dog/unitree_contor/lib  -Wl,-rpath,/home/jjp/dog/unitree_contor/lib -lUnitreeMotorSDK_Linux64 
